@@ -1,1 +1,1 @@
-Mi primer fichero en mi primer repositorio,<Sergio Climent Moreno>
+Mi primer fichero en mi primer repositorio, Sergio Climent Moreno
